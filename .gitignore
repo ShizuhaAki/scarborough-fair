@@ -1,4 +1,5 @@
 *.wav
+!third-party/*
 raw.wav
 *.mp4
 releases/
